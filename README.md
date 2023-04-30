@@ -7,6 +7,7 @@ SQL Analysis of American Baby Name Trends utilizing
 - CTE
 - pattern matching
 
+
 # Explanation
 [Datacamp project](https://app.datacamp.com/learn/projects/1441) diving into U.S. Social Security Administration baby name data from 1920 to 2020.  The dataset lists year and first names along with the number and sex of babies given the name.  Datacamp cropped the full original dataset down to save space and processing time.
 SQL queries used for answering key questions such as _"What were the top-ranked female names since 1920?"_ and _"Which names spent the most years at number one?"_
@@ -14,12 +15,13 @@ SQL queries used for answering key questions such as _"What were the top-ranked 
 - Filtered, grouped, and ordered lists of names based on pattern matching and meeting specific criteria
 - Created CTE (common table expression) and joined with main table to further filter data
 
+
 # Files
-#### baby_names_analysis.ipynb
+### baby_names_analysis.ipynb
 - analyses changing tastes over time
 - utilizes SQL queries for ranking, grouping, joining, ordering, CTEs, and pattern matching
 
-#### usa_baby_names.csv
+### usa_baby_names.csv
 - Columns:
     - year - int
     - first_name - string
@@ -32,8 +34,8 @@ SQL queries used for answering key questions such as _"What were the top-ranked 
 
 
 # Contact Information
-Name: Jared R. Kannianen 
+_Name:_ Jared R. Kannianen 
 <br />
-Organization: Masterschool - Data Analyst 
+_Organization:_ Masterschool - Data Analyst 
 <br />
-Email: jarkanni@campus.masterschool.com
+_Email:_ jarkanni@campus.masterschool.com

@@ -1,9 +1,14 @@
 # SQL_Baby_Name_Trend_Analysis
-SQL Analysis of American Baby Name Trends utilizing ranking, grouping, joining, ordering, CTEs, and pattern matching
+SQL Analysis of American Baby Name Trends utilizing 
+- ranking
+- grouping
+- joining
+- ordering
+- CTE
+- pattern matching
 
 # Explanation
 [Datacamp project](https://app.datacamp.com/learn/projects/1441) diving into U.S. Social Security Administration baby name data from 1920 to 2020.  The dataset lists year and first names along with the number and sex of babies given the name.  Datacamp cropped the full original dataset down to save space and processing time.
-
 SQL queries used for answering key questions such as _"What were the top-ranked female names since 1920?"_ and _"Which names spent the most years at number one?"_
 - Ranked names by Classic or Trendy based on how often it occured over time
 - Filtered, grouped, and ordered lists of names based on pattern matching and meeting specific criteria
